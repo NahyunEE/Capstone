@@ -27,5 +27,8 @@
 ![슬라이드13](https://github.com/user-attachments/assets/b69ec76e-d596-41aa-95d6-156eedeb7f23)
 
 
+# 시연영상
+
+[![Video Label](http://img.youtube.com/vi/'유튜브주소의id'/0.jpg)](https://youtu.be/'lpisBSB9an4')
 
 

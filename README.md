@@ -6,7 +6,7 @@
 
 # 시연영상 ( Video )
 
-[![Video Label](http://img.youtube.com/vi/lpisBSB9an4/0.jpg)](https://youtu.be/lpisBSB9an4)
+[![Video Label](http://img.youtube.com/vi/NYfwomMsSog/0.jpg)](https://youtu.be/NYfwomMsSog)
 
 # Summary
 ![슬라이드1](https://github.com/user-attachments/assets/cd6e876b-85b1-4429-b95c-a3633ebea139)

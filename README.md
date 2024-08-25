@@ -4,7 +4,7 @@
 - Motion Detect Using Kinect Camera ( without Xbox)
 - Game made by Unity
 
-# 시연영상
+# 시연영상 ( Video )
 
 [![Video Label](http://img.youtube.com/vi/lpisBSB9an4/0.jpg)](https://youtu.be/lpisBSB9an4)
 

@@ -7,10 +7,6 @@
 # Summary
 ![슬라이드1](https://github.com/user-attachments/assets/cd6e876b-85b1-4429-b95c-a3633ebea139)
 
-![슬라이드2](https://github.com/user-attachments/assets/ec40ba1a-2c05-44ad-90b5-e6e1efb9a645)
-
-![슬라이드3](https://github.com/user-attachments/assets/52632510-c895-4a05-9bbb-708d5feed219)
-
 ![슬라이드4](https://github.com/user-attachments/assets/78163ad5-4a0a-41e6-9bbb-1b9705761208)
 
 ![슬라이드5](https://github.com/user-attachments/assets/de2709c2-b3c0-4ced-9074-6f5b1205c7ff)

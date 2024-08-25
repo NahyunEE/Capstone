@@ -3,8 +3,35 @@
 
 - Motion Detect Using Kinect Camera ( without Xbox)
 - Home Exercising Game made by Unity
+
+# Summary
 ![슬라이드1](https://github.com/user-attachments/assets/cd6e876b-85b1-4429-b95c-a3633ebea139)
 
+![슬라이드2](https://github.com/user-attachments/assets/ec40ba1a-2c05-44ad-90b5-e6e1efb9a645)
+
+![슬라이드3](https://github.com/user-attachments/assets/52632510-c895-4a05-9bbb-708d5feed219)
+
+![슬라이드4](https://github.com/user-attachments/assets/78163ad5-4a0a-41e6-9bbb-1b9705761208)
+
+![슬라이드5](https://github.com/user-attachments/assets/de2709c2-b3c0-4ced-9074-6f5b1205c7ff)
+
+![슬라이드6](https://github.com/user-attachments/assets/61095c50-6da6-48d5-8284-7319d16594d2)
+
+![슬라이드7](https://github.com/user-attachments/assets/76d76f4d-1d06-4e8b-9b2f-b43557504af4)
+
+![슬라이드8](https://github.com/user-attachments/assets/004e6296-c5db-4a40-b0ab-435092839f94)
+
+![슬라이드9](https://github.com/user-attachments/assets/782544b9-80b8-4a31-b30a-38dd28ab26c1)
+
+![슬라이드10](https://github.com/user-attachments/assets/0eb17b9a-6437-4163-85cb-7f1e3006817a)
+
+![슬라이드11](https://github.com/user-attachments/assets/c8ef92ed-aea0-423e-bd7f-06cda227d9b7)
+
+![슬라이드12](https://github.com/user-attachments/assets/f58f66bd-555a-46a1-8d48-902939aed326)
+
+![슬라이드13](https://github.com/user-attachments/assets/b69ec76e-d596-41aa-95d6-156eedeb7f23)
+
+![슬라이드14](https://github.com/user-attachments/assets/d1a2678a-f5e2-4511-9d42-38e43b53f8c0)
 
 
 
